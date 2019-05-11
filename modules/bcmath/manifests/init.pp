@@ -1,4 +1,4 @@
-# A Chassis extension to install and configure Bcmath on your Chassis server
+# A Chassis extension to install and configure BC Math on your Chassis server
 class bcmath (
 	$config,
 	$path = '/vagrant/extensions/bcmath',
